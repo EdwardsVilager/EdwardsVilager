@@ -15,6 +15,6 @@
   - Data Center Infrastructure and Virtualization (OpenStack, VMware, SAN/NAS Storage)
   - Business Intelligence and Big Data (Digdash, Power BI, ELK Stack, Grafana)
   - IT Security and Privacy
-- 📫 How to reach me: [iduarvilla@gmail.com](mailto:iduarvilla@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/iduarjosevillaguerra)
+- 📫 How to reach me: [iduarvilla@gmail.com](mailto:iduarvilla@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/iduar-villa-guerra-550a63119/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have over 20 years of experience in IT and have contributed to various domains including finance, energy, and telecommunications.
