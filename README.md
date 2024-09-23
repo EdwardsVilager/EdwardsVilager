@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I’m an experienced DevOps Engineer and Cloud Arc
 ### 🌱 What I'm Learning:
 - **Advanced Cloud-Native Technologies**: Continuously exploring the latest cloud-native technologies and trends, including serverless architectures, container orchestration, and cloud security.
 - **FinOps & Cost Optimization**: Delving deeper into FinOps practices to maximize cost-efficiency in the cloud, ensuring businesses get the most out of their cloud investments while keeping expenses under control.
+- **DevSecOps**: Mastering security practices within the DevOps lifecycle to ensure that security is integrated at every stage of development and deployment.
 
 ### 👯 Collaboration Opportunities:
 I’m always open to collaborating on innovative projects that involve:
